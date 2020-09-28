@@ -1,0 +1,16 @@
+{
+   "MiniEscudo":{
+      "name":"MiniEscudo.png",
+      "x":-694,
+      "y":-646,
+      "width":64,
+      "height":79
+   },
+   "Bandeirinha":{
+      "name":"Bandeirinha.png",
+      "x":2675,
+      "y":2219,
+      "width":171,
+      "height":119
+   }
+}
