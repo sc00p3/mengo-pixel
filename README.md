@@ -15,7 +15,7 @@ https://goo.gl/Ust7jk<br>
 <br>
 Instalar o minimapa:<br>
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬<br>
-<a href="https://github.com/sc00p3/mengo-pixel/raw/master/minimapa.js">Download</a><br>
+<a href="https://raw.githubusercontent.com/sc00p3/mengo-pixel/master/minimapa.js">Download</a><br>
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬<br>
 <h2>3º PASSO</h2>
 <br>
