@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/emojis/760558075672526868.png?v=1" width="50px"/> Como Instalar o Minimapa da MengoPixel? <img src="https://cdn.discordapp.com/emojis/760558075672526868.png?v=1" width="50px"/>
+<img src="https://cdn.discordapp.com/emojis/760558075672526868.png?v=1" width="20px"/> Como Instalar o Minimapa da MengoPixel? <img src="https://cdn.discordapp.com/emojis/760558075672526868.png?v=1" width="20px"/>
 
 1º PASSO
 Se ainda não possui, baixar um userscript manager de sua preferência, os principais são:
