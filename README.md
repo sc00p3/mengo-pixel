@@ -1,4 +1,4 @@
-# ![logo flamengo](https://cdn.discordapp.com/emojis/760558075672526868.png?v=1) Como Instalar o Minimapa da MengoPixel ? ![logo flamengo](https://cdn.discordapp.com/emojis/760558075672526868.png?v=1)
+# ![logo flamengo](https://cdn.discordapp.com/emojis/760558075672526868.png?v=1 width=50) Como Instalar o Minimapa da MengoPixel ? ![logo flamengo](https://cdn.discordapp.com/emojis/760558075672526868.png?v=1 | width=50)
 
 1º PASSO
 Se ainda não possui, baixar um userscript manager de sua preferência, os principais são:
