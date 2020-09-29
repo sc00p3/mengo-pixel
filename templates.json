@@ -1,14 +1,14 @@
 {
    "t":"est",
    "Ball":{
-      "name":"Ball.png",
+      "name":"templates/Ball.png",
       "x":2857,
       "y":2352,
       "width":48,
       "height":55
    },
    "Bandeirinha":{
-      "name":"Bandeirinha.png",
+      "name":"templates/Bandeirinha.png",
       "x":2675,
       "y":2219,
       "width":171,
