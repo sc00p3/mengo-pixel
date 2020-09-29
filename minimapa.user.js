@@ -2,7 +2,7 @@
 // @name         MengoPixel Minimap
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  Cliente do minimapa do clã MengoPixel.
+// @description  Cliente do minimapa da fac MengoPixel.
 // @author       You
 // @match        https://pixelzone.io/*
 // @grant        none
