@@ -1,13 +1,13 @@
 {
    "Ball":{
-      "name":"templates/Ball.png",
+      "name":"Ball.png",
       "x":2857,
       "y":2352,
       "width":48,
       "height":55
    },
    "Bandeirinha":{
-      "name":"templates/Bandeirinha.png",
+      "name":"Bandeirinha.png",
       "x":2675,
       "y":2219,
       "width":171,
