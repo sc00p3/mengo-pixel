@@ -15,9 +15,16 @@
    },
    "Fundo":{
       "name":"Fundo.png",
-      "x":2496,
+      "x":2495,
       "y":2194,
       "width":412,
       "height":216
+   },
+   "Gabigol":{
+      "name":"Gabigol.png",
+      "x":2496,
+      "y":2219,
+      "width":179,
+      "height":119
    }
 }
