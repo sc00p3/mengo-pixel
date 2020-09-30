@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Cliente do minimapa da fac MengoPixel.
-// @author       You
+// @author       enigê
 // @match        https://pixelzone.io/*
 // @grant        none
 // ==/UserScript==
