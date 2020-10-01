@@ -26,5 +26,12 @@
       "y":2219,
       "width":179,
       "height":119
+   },
+   "QRcode":{
+      "name":"QRcode.png",
+      "x":2846,
+      "y":2219,
+      "width":29,
+      "height":29
    }
 }
