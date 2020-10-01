@@ -3,13 +3,13 @@
 <h2>1º PASSO</h2>
 Se ainda não possui, baixar um userscript manager de sua preferência, os principais são:<br>
 <h4>Google Chrome</h4>
-https://goo.gl/YbvhsU<br>
-https://goo.gl/yfz4nD<br>
+<a href="https://goo.gl/YbvhsU">Tampermonkey</a><br>
+<a href="https://goo.gl/yfz4nD">Violentmonkey</a><br>
 <br>
 <h4>Mozila Firefox</h4>
-https://goo.gl/HKpoAT<br>
-https://goo.gl/RfPAzy<br>
-https://goo.gl/Ust7jk<br>
+<a href="https://goo.gl/HKpoAT">Greasemonkey</a><br>
+<a href="https://goo.gl/RfPAzy">Tampermonkey</a><br>
+  <a href="https://goo.gl/Ust7jk">Violentmonkey</a><br>
 <br>
 <h2>2º PASSO</h2>
 <br>
