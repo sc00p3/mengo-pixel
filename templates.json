@@ -1,37 +1,15 @@
 {
-   "Ball":{
-      "name":"Ball.png",
-      "x":2857,
-      "y":2353,
-      "width":48,
-      "height":55
+   "Discord":{
+      "name":"Discord.png",
+      "x":886,
+      "y":520,
+      "width":230,
+      "height":22
    },
-   "Bandeirinha":{
-      "name":"Bandeirinha.png",
-      "x":2675,
-      "y":2219,
-      "width":171,
-      "height":119
-   },
-   "Fundo":{
-      "name":"Fundo.png",
-      "x":2495,
-      "y":2194,
-      "width":412,
-      "height":216
-   },
-   "Gabigol":{
-      "name":"Gabigol.png",
-      "x":2496,
-      "y":2219,
-      "width":179,
-      "height":119
-   },
-   "QRcode":{
-      "name":"QRcode.png",
-      "x":2846,
-      "y":2219,
-      "width":29,
-      "height":29
+   "Bandeira":{
+      "x":886,
+      "y":543,
+      "width":295,
+      "height":182
    }
 }
