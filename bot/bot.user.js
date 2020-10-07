@@ -1,3 +1,16 @@
+// ==UserScript==
+// @name         MengoPixel BOT
+// @namespace    http://tampermonkey.net/
+// @version      1.0
+// @description  Cliente do bot MengoPixel.
+// @author       Apparatus, enigê
+// @updateURL    https://raw.githubusercontent.com/sc00p3/mengo-pixel/master/bot/bot.user.js
+// @downloadURL  https://raw.githubusercontent.com/sc00p3/mengo-pixel/master/bot/bot.user.js
+// @match        *://pixelzone.io/*
+// @match        *://www.pixelzone.io/*
+// @grant        unsafeWindow
+// ==/UserScript==
+
 const _0x4b6f = [
     'U3RvcA==',
     'cmFuZG9t',
